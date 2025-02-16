@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Jabeen Ashique!
 
-<!--
-**JabeenAshique/JabeenAshique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 MERN Stack Developer | React Enthusiast | Open-Source Contributor
 
-Here are some ideas to get you started:
+I love building full-stack web applications with React, Node.js, MongoDB, and Express.js.
+Currently, I am working on improving my DSA skills,Developing Mern Applications and contributing to open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Frontend:** React.js, Redux, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
+- **Backend:** Node.js, Express.js, REST APIs, MongoDB, MySQL  
+- **Development Tools:** Git, VS Code, Postman, Firebase, AWS  
+- **Others:** Data Structures & Algorithms, Problem Solving  
+
+
+## 🎯 2025 Goals
+- 🔥 Improve DSA & Algorithms
+- 🚀 Contribute to Open Source
+- 🏆 Build Full-Stack Projects
+- 🎯 Get a Full-Time React Developer Role
