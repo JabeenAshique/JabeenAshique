@@ -16,4 +16,4 @@ Currently, I am working on improving my DSA skills,Developing Mern Applications 
 - 🔥 Improve DSA & Algorithms
 - 🚀 Contribute to Open Source
 - 🏆 Build Full-Stack Projects
-- 🎯 Get a Full-Time React Developer Role
+- 🎯 Get a Full-Time Web Developer Role
